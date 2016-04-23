@@ -7,7 +7,7 @@
 
 ##### To run program:
 * cd build
-* ./assignment2
+* ./TennisPong3D
 
 ##### To build from source:
 * chmod u+x ./create
@@ -20,7 +20,7 @@
 * ./buildit
 * ./makeit
 Then, to run it,
-* ./assignment2
+* ./TennisPong3D
 
 
 ## Milestone 3.3
